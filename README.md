@@ -23,7 +23,7 @@ Follow these instructions to set up and run BroadCastMailer for your email outre
 
 1. **Clone the Repository:**
 ```
-git clone https://github.com/[YourGitHubUsername]/BroadCastMailer.git
+git clone https://github.com/Kushal-Shankar-1/BroadCastMailer.git
 cd BroadCastMailer
 ```
 
