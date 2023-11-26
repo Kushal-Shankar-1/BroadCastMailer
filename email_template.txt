@@ -1,0 +1,12 @@
+Greetings {{ recruiter_name }},
+
+I hope this message finds you in good health and spirits. My name is ____, currently in the midst of pursuing a Master's Degree, and I am reaching out to express my keen interest in exploring internship or co-op opportunities at your company: {{ company_name }}.
+
+My passion for ____, and I am particularly intrigued by the work being done at {{ company_name }}.
+
+Enclosed with this email is my resume, which provides further details about my background.
+
+Warm Regards,
+
+[Your Contact Information - Email and Phone Number: ]
+[LinkedIn Profile URL - Optional]
